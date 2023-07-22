@@ -1,0 +1,24 @@
+{
+    "faction": "/r/algeria",
+    "contact": "https://discord.gg/kpWuBa3cPF",
+    "templates": [
+        {
+            "name": "Algerian flag",
+            "sources": [
+                "https://e1.pngegg.com/pngimages/300/61/png-clipart-somacro-45-300dpi-social-media-icons-flickr-white-and-pink-fr-logo.png"
+            ],
+            "x": 230,
+            "y": 836
+        },
+        {
+            "name": "Algerian flag new location",
+            "sources": [
+                "https://raw.githubusercontent.com/personalgeria/place/main/alg11.png"
+            ],
+            "x": 840,
+            "y": 308
+        }
+    ],
+    "whitelist": [
+    ],
+    "blacklist": []
